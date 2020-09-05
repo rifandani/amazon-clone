@@ -1,0 +1,11 @@
+.home {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: linear-gradient(90deg, #fdfaec 10%, #fdf1d0 100%);
+}
+
+.home__banner {
+  background-color: #ffc1a1;
+  background-image: linear-gradient(180deg, #ffc1a1 20%, #ffe198 100%);
+}
